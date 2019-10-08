@@ -45,4 +45,3 @@ class Shoe
   
 end
 
-shoe.new()
