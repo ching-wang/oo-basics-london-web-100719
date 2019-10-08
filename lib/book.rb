@@ -36,3 +36,6 @@ class Book
   end
   
 end
+
+book = Book.new("Adidas")
+book.turn_page
