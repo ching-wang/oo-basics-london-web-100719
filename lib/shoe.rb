@@ -40,7 +40,7 @@ class Shoe
   end
   
   def cobble=(cobble)
-    @cobble = cobble
+    puts "the shoe has been repaired"
   end
   
 end
